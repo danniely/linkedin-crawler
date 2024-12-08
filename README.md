@@ -1,6 +1,11 @@
 # linkedin-crawler
 LinkedIn Crawler is a Python-based tool designed to assist job seekers in gathering publicly available information from LinkedIn profiles. This tool is strictly intended for personal use by individuals looking to streamline their job search process by analyzing professional connections, skill sets, and other relevant data.
 
+## Preview
+https://github.com/user-attachments/assets/11ad8094-78d4-4ceb-aec3-916e061f2ad4
+
+
+
 ## ⚠️ Precautions and Disclaimer
 Responsibility Notice:
 The use of this tool is entirely at your own discretion and responsibility. This project and its contributors are not responsible for how the tool is used. Misusing LinkedIn Crawler to spam individuals, send unsolicited messages, or violate LinkedIn’s Terms of Service is strictly prohibited and may result in penalties, including account suspension.
