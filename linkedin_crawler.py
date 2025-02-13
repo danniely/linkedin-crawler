@@ -33,25 +33,22 @@ REQUEST_TYPE = "new"
 # keep it less than 300 words
 MESSAGE_TEMPLATE = """
 Hi {TheirFirstName}!
-My name is {MyFirstName} @ {MySchool} {MyMajor}. I noticed that you are my alumni!
-I came across your profile while searching {CompanyName} employees. 
-Would you please share your experience at {CompanyName} and any advice you might have for someone before applying as a {JobTitle}?
+My name is {MyFirstName} @ {MySchool} {MyMajor}.
+I saw your profile working at {CompanyName}!
+How is working at {CompanyName}? I'm looking for a {JobTitle} role.
+
 Thanks!
 """
 
 LONG_MESSAGE_TEMPLATE = """
 Hi {TheirFirstName}!
-My name is {MyFirstName} @ {MySchool} {MyMajor}. I noticed that you are my alumni! I came across your profile while looking through {CompanyName} employees. I was impressed by your background and wanted to reach out.
-While I was searching for job openings from {CompanyName} careers webpage, there was a role got my attention. If you have some time, I would love to hear more about your experience at {CompanyName} and any advice you might have for someone applying for this role.
+My name is {MyFirstName} @ {MySchool} {MyMajor}. I saw your profile working at {CompanyName}!
+How is working at {CompanyName}? I'm looking for a {JobTitle} role.
 
+Also, I would like to get a referral for this position!
 {JobUrl}
 
-Additionally, if it's not too much trouble, I would be grateful if you could consider referring me for the position.
-Thank you for your time and consideration!
-
-Regards,
-
-{MyFirstName} {MyLastName}
+Thanks!
 """
 
 # ----------------------------------------------
