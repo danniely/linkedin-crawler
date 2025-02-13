@@ -53,7 +53,8 @@ Example.
 ```
 BASE_SEARCH_URL="linkedin.com/search/results/people/?currentCompany=%5B"1035"%5D&keywords=uiuc&origin=GLOBAL_SEARCH_HEADER&sid=Ks%40"
 ```
-![스크린샷 2024-12-07 17 35 27](https://github.com/user-attachments/assets/7a07498e-1d58-4c39-942e-6f29142f10e1)
+<img width="1298" alt="스크린샷 2025-02-13 17 58 14" src="https://github.com/user-attachments/assets/97c761c5-2b9a-4641-9b8a-428f2001ac57" />
+
 
 ## Run
 ```
